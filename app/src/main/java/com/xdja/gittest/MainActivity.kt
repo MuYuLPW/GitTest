@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         print("ddd")
         print("ddd")
         print("嘻嘻嘻嘻嘻嘻")
+        print("嘻嘻嘻嘻嘻嘻")
 
     }
 }
