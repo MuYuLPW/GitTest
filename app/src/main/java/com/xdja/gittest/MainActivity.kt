@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         println()
 
         print("ddd")
+        print("ddd")
+
     }
 }
